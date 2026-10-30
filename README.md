@@ -1,2 +1,2 @@
 # CHIK-M2-GL
-Notre projet devops
+Notre projet DevOps ( Application web pour un restaurant )
